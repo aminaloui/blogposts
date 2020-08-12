@@ -1,0 +1,80 @@
+html, body {
+    overflow-x: hidden;
+  }
+  body {
+    position: relative
+  }
+
+.body{
+    background-color: #f4f4f4;
+}
+.banner-image{
+    width: 100%;
+    display: block;
+    margin-bottom: 2em;
+    
+    
+}
+
+.btn-primary{
+border-radius: 25px;
+ background-color: #f17523;
+ width: 50%;
+ margin: auto;
+ display: block;
+
+}
+
+.BlogPostForm{
+    
+   padding-top: 1em;
+   padding-bottom: 1em;
+   margin-bottom: 1em;
+background-color: white;
+  
+}
+
+.RenderedPosts{
+    background-color: white;
+    padding-top: 1em;
+    padding-bottom: 1em;
+    margin-bottom: 1em;
+    
+   
+}
+.card-title{
+    font-weight: bold;
+}
+.card-text{  
+    overflow: hidden;
+    display: -webkit-box;
+    -webkit-line-clamp: 6;
+    -webkit-box-orient: vertical;
+    color: #c2c2c2;
+}
+    
+#BlogRender{
+  margin: auto;
+
+}
+.card{
+    height: auto;
+    width: auto;
+}
+.BlogPosts{
+background-color: #f4f4f4;
+padding-bottom: 2em;
+
+}
+
+.form-control{
+    background-color: #fafafa;
+    width: 100%;
+   
+}
+
+.card-img-top{
+    height: 120px;
+    width: 100%;
+}
+
